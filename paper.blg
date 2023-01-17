@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: biblio.bib
+Warning--I didn't find a database entry for "ren"
+Warning--I didn't find a database entry for "yang"
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in bitcoinpaper
+Warning--empty journal in ethpaper
+Warning--missing school in contractenergyconsumptionthesis
+Warning--empty booktitle in softwareversion
+Warning--empty booktitle in simsimilarity
+Warning--empty booktitle in testmethodevaluation
+Warning--empty booktitle in empiricalgithubcontracts
+Warning--missing publisher in morabito
+Warning--empty author and editor in refactoring
+Warning--empty booktitle in chen3soda
+Warning--empty journal in chen4stan
+Warning--empty journal in nagele
+Warning--empty booktitle in pagination
+
+Done.
+You've used 61 entries,
+            4087 wiz_defined-function locations,
+            1157 strings with 21520 characters,
+and the built_in function-call counts, 46340 in all, are:
+= -- 3536
+> -- 1438
+< -- 213
++ -- 740
+- -- 306
+* -- 2215
+:= -- 6707
+add.period$ -- 137
+call.type$ -- 61
+change.case$ -- 63
+chr.to.int$ -- 474
+cite$ -- 74
+duplicate$ -- 3476
+empty$ -- 3938
+format.name$ -- 362
+if$ -- 10927
+int.to.chr$ -- 0
+int.to.str$ -- 61
+missing$ -- 715
+newline$ -- 274
+num.names$ -- 64
+pop$ -- 1923
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 3610
+stack$ -- 0
+substring$ -- 1385
+swap$ -- 2640
+text.length$ -- 55
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 61
+warning$ -- 13
+while$ -- 146
+width$ -- 63
+write$ -- 655
+(There were 15 warnings)
