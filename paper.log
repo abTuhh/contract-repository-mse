@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.8)  18 JAN 2023 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.8)  18 JAN 2023 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7599,6 +7599,66 @@ Overfull \hbox (6.51982pt too wide) in paragraph at lines 241--241
 
 LaTeX Warning: Marginpar on page 8 moved.
 
+
+Overfull \hbox (31.53955pt too wide) in paragraph at lines 246--246
+[][][]\OT1/ptm/m/n/10 Something 
+ []
+
+
+Overfull \hbox (13.74992pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 wrong 
+ []
+
+
+Overfull \hbox (5.97975pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 with 
+ []
+
+
+Overfull \hbox (2.64967pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 this 
+ []
+
+
+Overfull \hbox (9.30984pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 num- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 ber[]  
+ []
+
+
+Overfull \hbox (31.53955pt too wide) in paragraph at lines 246--246
+[][][]\OT1/ptm/m/n/10 Something 
+ []
+
+
+Overfull \hbox (13.74992pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 wrong 
+ []
+
+
+Overfull \hbox (5.97975pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 with 
+ []
+
+
+Overfull \hbox (2.64967pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 this 
+ []
+
+
+Overfull \hbox (9.30984pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 num- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 246--246
+\OT1/ptm/m/n/10 ber[]  
+ []
+
 <distr_versions_contracts.png, id=36, 645.41125pt x 400.49625pt>
 File: distr_versions_contracts.png Graphic file (type png)
 <use distr_versions_contracts.png>
@@ -7606,6 +7666,36 @@ Package pdftex.def Info: distr_versions_contracts.png  used on input line 252.
 (pdftex.def)             Requested size: 193.62486pt x 120.1498pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (7.63966pt too wide) in paragraph at lines 257--257
+[][][]\OT1/ptm/m/n/10 "that 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 257--257
+\OT1/ptm/m/n/10 be- 
+ []
+
+
+Overfull \hbox (9.85977pt too wide) in paragraph at lines 257--257
+\OT1/ptm/m/n/10 ing''?[]  
+ []
+
+
+Overfull \hbox (7.63966pt too wide) in paragraph at lines 257--257
+[][][]\OT1/ptm/m/n/10 "that 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 257--257
+\OT1/ptm/m/n/10 be- 
+ []
+
+
+Overfull \hbox (9.85977pt too wide) in paragraph at lines 257--257
+\OT1/ptm/m/n/10 ing''?[]  
+ []
 
 <distr_files_repos.png, id=38, 645.41125pt x 431.6125pt>
 File: distr_files_repos.png Graphic file (type png)
@@ -7648,10 +7738,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 15343 strings out of 474968
- 308303 string characters out of 5780081
- 722168 words of memory out of 5000000
- 36567 multiletter control sequences out of 15000+600000
+ 15359 strings out of 474968
+ 308689 string characters out of 5780081
+ 722458 words of memory out of 5000000
+ 36583 multiletter control sequences out of 15000+600000
  508846 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,94p,2425b,1010s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -7663,7 +7753,7 @@ r/ucrr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/t
 exlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on paper.pdf (10 pages, 381229 bytes).
+Output written on paper.pdf (10 pages, 381638 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
