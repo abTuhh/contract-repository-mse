@@ -22,41 +22,41 @@
 \BIBdecl
 
 \bibitem{bitcoinpaper}
-S.~Nakamoto, ``Bitcoin: A peer-to-peer electronic cash system,'' 03 2009.
+S.~Nakamoto, ``{Bitcoin: A Peer-to-Peer Electronic Cash System},'' 2009, white
+  Paper.
 
 \bibitem{crossblockchain}
-M.~Nissl, E.~Sallinger, S.~Schulte, and M.~Borkowski, ``Towards
-  cross-blockchain smart contracts,'' in \emph{2021 IEEE International
+M.~Nissl, E.~Sallinger, S.~Schulte, and M.~Borkowski, ``{Towards
+  Cross-Blockchain Smart Contracts},'' in \emph{2021 IEEE International
   Conference on Decentralized Applications and Infrastructures (DAPPS)}, 2021,
   pp. 85--94.
 
 \bibitem{blockchainsurvey}
-F.~Tschorsch and B.~Scheuermann, ``Bitcoin and beyond: A technical survey on
-  decentralized digital currencies,'' \emph{IEEE Communications Surveys \&
+F.~Tschorsch and B.~Scheuermann, ``{Bitcoin and Beyond: A Technical Survey on
+  Decentralized Digital Currencies},'' \emph{IEEE Communications Surveys \&
   Tutorials}, vol.~18, no.~3, pp. 2084--2123, 2016.
 
 \bibitem{ethpaper}
 \BIBentryALTinterwordspacing
-V.~Buterin, ``Ethereum white paper: A next generation smart contract \&
-  decentralized application platform,'' 2013. [Online]. Available:
+V.~Buterin, ``{Ethereum White Paper: A Next Generation Smart Contract \&
+  Decentralized Application Platform},'' 2013. [Online]. Available:
   \url{https://github.com/ethereum/wiki/wiki/White-Paper}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wood2019ethereum}
 G.~Wood \emph{et~al.}, ``Ethereum: A secure decentralised generalised
-  transaction ledger,'' \emph{Ethereum project yellow paper}, vol. 151, no.
-  2014, pp. 1--32, 2014.
+  transaction ledger,'' \emph{Ethereum project yellow paper}, no. 2014, 2014.
 
 \bibitem{commonshood}
 S.~Balbo, G.~Boella, P.~Busacchi, A.~Cordero, L.~De~Carne, D.~Di~Caro,
-  A.~Guffanti, M.~Mioli, A.~Sanino, and C.~Schifanella, ``Commonshood: A
-  blockchain-based wallet app for local communities,'' in \emph{2020 IEEE
+  A.~Guffanti, M.~Mioli, A.~Sanino, and C.~Schifanella, ``{CommonsHood: A
+  Blockchain-Based Wallet App for Local Communities},'' in \emph{2020 IEEE
   International Conference on Decentralized Applications and Infrastructures
   (DAPPS)}, 2020, pp. 139--144.
 
 \bibitem{brandstatter}
-T.~Brandstätter, S.~Schulte, J.~Cito, and M.~Borkowski, ``Characterizing
-  efficiency optimizations in solidity smart contracts,'' in \emph{2020 IEEE
+T.~Brandstätter, S.~Schulte, J.~Cito, and M.~Borkowski, ``{Characterizing
+  Efficiency Optimizations in Solidity Smart Contracts},'' in \emph{2020 IEEE
   International Conference on Blockchain (Blockchain)}, 2020, pp. 281--290.
 
 \bibitem{contractenergyconsumptionthesis}
@@ -64,20 +64,13 @@ D.~Saingre, ``Understanding the energy consumption of blockchain technologies :
   a focus on smart contracts,'' Ph.D. dissertation, 2021.
 
 \bibitem{codesmellmining}
-\BIBentryALTinterwordspacing
-G.~Rasool and Z.~Arshad, ``A review of code smell mining techniques,'' \emph{J.
-  Softw. Evol. Process}, vol.~27, no.~11, p. 867–895, nov 2015. [Online].
-  Available: \url{https://doi.org/10.1002/smr.1737}
-\BIBentrySTDinterwordspacing
+G.~Rasool and Z.~Arshad, ``{A Review of Code Smell Mining Techniques},''
+  \emph{J. Softw. Evol. Process}, vol.~27, no.~11, p. 867–895, 2015.
 
 \bibitem{softwareversion}
-\BIBentryALTinterwordspacing
-D.~G. Reichelt and S.~K\"{u}hne, ``How to detect performance changes in
-  software history: Performance analysis of software system versions,'' ser.
-  ICPE '18.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA:
-  Association for Computing Machinery, 2018, p. 183–188. [Online]. Available:
-  \url{https://doi.org/10.1145/3185768.3186404}
-\BIBentrySTDinterwordspacing
+D.~G. Reichelt and S.~K\"{u}hne, ``{How to Detect Performance Changes in
+  Software History: Performance Analysis of Software System Versions},'' 2018,
+  p. 183–188.
 
 \bibitem{codeminingsurvey}
 H.~Kagdi, M.~Collard, and J.~Maletic, ``A survey and taxonomy of approaches for
@@ -85,24 +78,20 @@ H.~Kagdi, M.~Collard, and J.~Maletic, ``A survey and taxonomy of approaches for
   \emph{Journal of Software Maintenance}, vol.~19, pp. 77--131, 03 2007.
 
 \bibitem{superoptimization}
-\BIBentryALTinterwordspacing
 E.~Albert, P.~Gordillo, A.~Hern\'{a}ndez-Cerezo, A.~Rubio, and M.~A. Schett,
-  ``Super-optimization of smart contracts,'' \emph{ACM Trans. Softw. Eng.
-  Methodol.}, vol.~31, no.~4, jul 2022. [Online]. Available:
-  \url{https://doi.org/10.1145/3506800}
-\BIBentrySTDinterwordspacing
+  ``{Super-Optimization of Smart Contracts},'' \emph{ACM Trans. Softw. Eng.
+  Methodol.}, vol.~31, no.~4, jul 2022.
 
 \bibitem{utilitypattern}
 W.~Gan, J.~C.-W. Lin, P.~Fournier-Viger, H.-C. Chao, V.~S. Tseng, and P.~S. Yu,
-  ``A survey of utility-oriented pattern mining,'' \emph{IEEE Transactions on
+  ``{A Survey of Utility-Oriented Pattern Mining},'' \emph{IEEE Transactions on
   Knowledge and Data Engineering}, vol.~33, no.~4, pp. 1306--1327, 2021.
 
 \bibitem{simsimilarity}
 D.~Gitchell and N.~Tran, ``Sim: A utility for detecting similarity in computer
-  programs,'' vol.~31, 03 1999, pp. 266--270.
+  programs,'' \emph{SIGCSE Bulletin}, vol.~31, pp. 266--270, 1999.
 
 \bibitem{codex}
-\BIBentryALTinterwordspacing
 M.~Chen, J.~Tworek, H.~Jun, Q.~Yuan, H.~P. de~Oliveira~Pinto, J.~Kaplan,
   H.~Edwards, Y.~Burda, N.~Joseph, G.~Brockman, A.~Ray, R.~Puri, G.~Krueger,
   M.~Petrov, H.~Khlaaf, G.~Sastry, P.~Mishkin, B.~Chan, S.~Gray, N.~Ryder,
@@ -112,94 +101,70 @@ M.~Chen, J.~Tworek, H.~Jun, Q.~Yuan, H.~P. de~Oliveira~Pinto, J.~Kaplan,
   S.~Jain, W.~Saunders, C.~Hesse, A.~N. Carr, J.~Leike, J.~Achiam, V.~Misra,
   E.~Morikawa, A.~Radford, M.~Knight, M.~Brundage, M.~Murati, K.~Mayer,
   P.~Welinder, B.~McGrew, D.~Amodei, S.~McCandlish, I.~Sutskever, and
-  W.~Zaremba, ``Evaluating large language models trained on code,''
-  \emph{CoRR}, vol. abs/2107.03374, 2021. [Online]. Available:
-  \url{https://arxiv.org/abs/2107.03374}
-\BIBentrySTDinterwordspacing
+  W.~Zaremba, ``{Evaluating Large Language Models Trained on Code},''
+  \emph{CoRR}, vol. abs/2107.03374, 2021.
 
 \bibitem{chatgpt}
-\BIBentryALTinterwordspacing
 L.~Ouyang, J.~Wu, X.~Jiang, D.~Almeida, C.~L. Wainwright, P.~Mishkin, C.~Zhang,
   S.~Agarwal, K.~Slama, A.~Ray, J.~Schulman, J.~Hilton, F.~Kelton, L.~Miller,
   M.~Simens, A.~Askell, P.~Welinder, P.~Christiano, J.~Leike, and R.~Lowe,
   ``Training language models to follow instructions with human feedback,''
-  2022. [Online]. Available: \url{https://arxiv.org/abs/2203.02155}
-\BIBentrySTDinterwordspacing
+  2022.
 
 \bibitem{thestack}
 \BIBentryALTinterwordspacing
 D.~Kocetkov, R.~Li, L.~B. Allal, J.~Li, C.~Mou, C.~M. Ferrandis, Y.~Jernite,
   M.~Mitchell, S.~Hughes, T.~Wolf, D.~Bahdanau, L.~von Werra, and H.~de~Vries,
-  ``The stack: 3 tb of permissively licensed source code,'' 2022. [Online].
+  ``{The Stack: 3 TB of permissively licensed source code},'' 2022. [Online].
   Available: \url{https://arxiv.org/abs/2211.15533}
 \BIBentrySTDinterwordspacing
 
 \bibitem{codesummarization}
 \BIBentryALTinterwordspacing
-T.~Ahmed and P.~Devanbu, ``Few-shot training llms for project-specific
+T.~Ahmed and P.~Devanbu, ``Few-shot training {LLMs} for project-specific
   code-summarization,'' 2022. [Online]. Available:
   \url{https://arxiv.org/abs/2207.04237}
 \BIBentrySTDinterwordspacing
 
 \bibitem{securitydataset}
 \BIBentryALTinterwordspacing
-G.~Antal, M.~Keleti, and P.~Hegedűs, ``Exploring the security awareness of the
-  python and javascript open source communities,'' 2020. [Online]. Available:
-  \url{https://arxiv.org/abs/2006.13652}
+G.~Antal, M.~Keleti, and P.~Hegedűs, ``{Exploring the Security Awareness of
+  the Python and JavaScript Open Source Communities},'' 2020. [Online].
+  Available: \url{https://arxiv.org/abs/2006.13652}
 \BIBentrySTDinterwordspacing
 
 \bibitem{staticanalysis}
-\BIBentryALTinterwordspacing
-S.~Lipp, S.~Banescu, and A.~Pretschner, ``An empirical study on the
-  effectiveness of static c code analyzers for vulnerability detection,'' in
-  \emph{Proceedings of the 31st ACM SIGSOFT International Symposium on Software
-  Testing and Analysis}, ser. ISSTA 2022.\hskip 1em plus 0.5em minus
-  0.4em\relax New York, NY, USA: Association for Computing Machinery, 2022, p.
-  544–555. [Online]. Available: \url{https://doi.org/10.1145/3533767.3534380}
-\BIBentrySTDinterwordspacing
+S.~Lipp, S.~Banescu, and A.~Pretschner, ``{An Empirical Study on the
+  Effectiveness of Static C Code Analyzers for Vulnerability Detection},'' in
+  \emph{31st ACM SIGSOFT International Symposium on Software Testing and
+  Analysis}, 2022, p. 544–555.
 
 \bibitem{maintainablecode}
-\BIBentryALTinterwordspacing
-S.~A. Chowdhury, G.~Uddin, and R.~Holmes, ``An empirical study on maintainable
-  method size in java,'' in \emph{Proceedings of the 19th International
-  Conference on Mining Software Repositories}, ser. MSR '22.\hskip 1em plus
-  0.5em minus 0.4em\relax New York, NY, USA: Association for Computing
-  Machinery, 2022, p. 252–264. [Online]. Available:
-  \url{https://doi.org/10.1145/3524842.3527975}
-\BIBentrySTDinterwordspacing
+S.~A. Chowdhury, G.~Uddin, and R.~Holmes, ``{An Empirical Study on Maintainable
+  Method Size in Java},'' in \emph{19th International Conference on Mining
+  Software Repositories}, 2022, p. 252–264.
 
 \bibitem{testmethodevaluation}
-\BIBentryALTinterwordspacing
-V.~Veloso and A.~Hora, ``Characterizing high-quality test methods: A first
-  empirical study,'' ser. MSR '22.\hskip 1em plus 0.5em minus 0.4em\relax New
-  York, NY, USA: Association for Computing Machinery, 2022, p. 265–269.
-  [Online]. Available: \url{https://doi.org/10.1145/3524842.3529092}
-\BIBentrySTDinterwordspacing
+V.~Veloso and A.~Hora, ``{Characterizing High-Quality Test Methods: A First
+  Empirical Study},'' in \emph{19th International Conference on Mining Software
+  Repositories}, 2022, p. 265–269.
 
 \bibitem{codestylecomparison}
-\BIBentryALTinterwordspacing
-K.~Grotov, S.~Titov, V.~Sotnikov, Y.~Golubev, and T.~Bryksin, ``A large-scale
-  comparison of python code in jupyter notebooks and scripts,'' in
+K.~Grotov, S.~Titov, V.~Sotnikov, Y.~Golubev, and T.~Bryksin, ``{A Large-Scale
+  Comparison of Python Code in Jupyter Notebooks and Scripts},'' in
   \emph{Proceedings of the 19th International Conference on Mining Software
-  Repositories}, ser. MSR '22.\hskip 1em plus 0.5em minus 0.4em\relax New York,
-  NY, USA: Association for Computing Machinery, 2022, p. 353–364. [Online].
-  Available: \url{https://doi.org/10.1145/3524842.3528447}
-\BIBentrySTDinterwordspacing
+  Repositories}, 2022, p. 353–364.
 
 \bibitem{soliditycheck}
 \BIBentryALTinterwordspacing
-P.~Zhang, F.~Xiao, and X.~Luo, ``Soliditycheck : Quickly detecting smart
-  contract problems through regular expressions,'' 2019. [Online]. Available:
+P.~Zhang, F.~Xiao, and X.~Luo, ``{SolidityCheck : Quickly Detecting Smart
+  Contract Problems Through Regular Expressions},'' 2019. [Online]. Available:
   \url{https://arxiv.org/abs/1911.09425}
 \BIBentrySTDinterwordspacing
 
 \bibitem{empiricalgithubcontracts}
-\BIBentryALTinterwordspacing
-A.~Das, G.~Uddin, and G.~Ruhe, ``An empirical study of blockchain repositories
-  in github,'' ser. EASE '22.\hskip 1em plus 0.5em minus 0.4em\relax New York,
-  NY, USA: Association for Computing Machinery, 2022, p. 211–220. [Online].
-  Available: \url{https://doi.org/10.1145/3530019.3530041}
-\BIBentrySTDinterwordspacing
+A.~Das, G.~Uddin, and G.~Ruhe, ``{An Empirical Study of Blockchain Repositories
+  in GitHub},'' 2022, p. 211–220.
 
 \bibitem{bitcoinbook}
 C.~Dannen, \emph{Introducing Ethereum and Solidity: Foundations of
@@ -208,24 +173,25 @@ C.~Dannen, \emph{Introducing Ethereum and Solidity: Foundations of
 
 \bibitem{gasol}
 \BIBentryALTinterwordspacing
-E.~Albert, J.~Correas, P.~Gordillo, G.~Román-Díez, and A.~Rubio, ``Gasol: Gas
-  analysis and optimization for ethereum smart contracts,'' 2019. [Online].
+E.~Albert, J.~Correas, P.~Gordillo, G.~Román-Díez, and A.~Rubio, ``{Gas
+  Analysis and Optimization for Ethereum Smart Contracts},'' 2019. [Online].
   Available: \url{https://arxiv.org/abs/1912.11929}
 \BIBentrySTDinterwordspacing
 
 \bibitem{khanblockchain}
-S.~Khan, F.~Loukil, C.~Ghedira, E.~Benkhelifa, and A.~Bani-Hani, ``Blockchain
-  smart contracts: Applications, challenges, and future trends,''
-  \emph{Peer-to-Peer Networking and Applications}, vol.~14, 09 2021.
+S.~Khan, F.~Loukil, C.~Ghedira, E.~Benkhelifa, and A.~Bani-Hani, ``{Blockchain
+  Smart Contracts: Applications, Challenges, and Future Trends},''
+  \emph{Peer-to-Peer Networking and Applications}, vol.~14, pp. 2901--2925,
+  2021.
 
 \bibitem{alharbyblockchain}
-M.~Alharby, A.~Aldweesh, and A.~v. Moorsel, ``Blockchain-based smart contracts:
-  A systematic mapping study of academic research (2018),'' in \emph{2018
-  International Conference on Cloud Computing, Big Data and Blockchain
-  (ICCBB)}, 2018, pp. 1--6.
+M.~Alharby, A.~Aldweesh, and A.~{van Moorsel}, ``{Blockchain-based Smart
+  Contracts: A Systematic Mapping Study of Academic Research (2018)},'' in
+  \emph{2018 International Conference on Cloud Computing, Big Data and
+  Blockchain (ICCBB)}, 2018, pp. 1--6.
 
 \bibitem{morabito}
-V.~Morabito, \emph{Smart Contracts and Licensing}, 01 2017, pp. 101--124.
+V.~Morabito, \emph{Smart Contracts and Licensing}, 2017, pp. 101--124.
 
 \bibitem{msrllm}
 M.~Allamanis and C.~Sutton, ``Mining source code repositories at massive scale
@@ -243,26 +209,22 @@ S.~Khatoon, A.~Mahmood, and G.~Li, ``An evaluation of source code mining
 
 \bibitem{treemining}
 H.~S. Pham, S.~Nijssen, K.~Mens, D.~Di~Nucci, T.~Molderez, C.~De~Roover,
-  J.~Fabry, and V.~Zaytsev, ``Mining patterns in source code using tree mining
-  algorithms,'' in \emph{Discovery Science}, P.~Kralj~Novak, T.~{\v{S}}muc, and
-  S.~D{\v{z}}eroski, Eds.\hskip 1em plus 0.5em minus 0.4em\relax Cham: Springer
-  International Publishing, 2019, pp. 471--480.
+  J.~Fabry, and V.~Zaytsev, ``{Mining Patterns in Source Code Using Tree Mining
+  Algorithms},'' in \emph{Discovery Science}, P.~Kralj~Novak, T.~{\v{S}}muc,
+  and S.~D{\v{z}}eroski, Eds.\hskip 1em plus 0.5em minus 0.4em\relax Cham:
+  Springer International Publishing, 2019, pp. 471--480.
 
 \bibitem{smartdagger}
-\BIBentryALTinterwordspacing
-Z.~Liao, Z.~Zheng, X.~Chen, and Y.~Nan, ``Smartdagger: A bytecode-based static
-  analysis approach for detecting cross-contract vulnerability,'' in
-  \emph{Proceedings of the 31st ACM SIGSOFT International Symposium on Software
-  Testing and Analysis}, ser. ISSTA 2022.\hskip 1em plus 0.5em minus
-  0.4em\relax New York, NY, USA: Association for Computing Machinery, 2022, p.
-  752–764. [Online]. Available: \url{https://doi.org/10.1145/3533767.3534222}
-\BIBentrySTDinterwordspacing
+Z.~Liao, Z.~Zheng, X.~Chen, and Y.~Nan, ``{SmartDagger: A Bytecode-Based Static
+  Analysis Approach for Detecting Cross-Contract Vulnerability},'' in
+  \emph{31st ACM SIGSOFT International Symposium on Software Testing and
+  Analysis}, 2022, p. 752–764.
 
 \bibitem{manticore}
 \BIBentryALTinterwordspacing
 M.~Mossberg, F.~Manzano, E.~Hennenfent, A.~Groce, G.~Grieco, J.~Feist,
-  T.~Brunson, and A.~Dinaburg, ``Manticore: A user-friendly symbolic execution
-  framework for binaries and smart contracts,'' 2019. [Online]. Available:
+  T.~Brunson, and A.~Dinaburg, ``{Manticore: A User-Friendly Symbolic Execution
+  Framework for Binaries and Smart Contracts},'' 2019. [Online]. Available:
   \url{https://arxiv.org/abs/1907.03890}
 \BIBentrySTDinterwordspacing
 
@@ -280,70 +242,58 @@ T.~Chen, X.~Li, X.~Luo, and X.~Zhang, ``Under-optimized smart contracts devour
 
 \bibitem{chen2gaschecker}
 T.~Chen, Y.~Feng, Z.~Li, H.~Zhou, X.~Luo, X.~Li, X.~Xiao, J.~Chen, and
-  X.~Zhang, ``Gaschecker: Scalable analysis for discovering gas-inefficient
-  smart contracts,'' \emph{IEEE Transactions on Emerging Topics in Computing},
+  X.~Zhang, ``{GasChecker: Scalable Analysis for Discovering Gas-Inefficient
+  Smart Contracts},'' \emph{IEEE Transactions on Emerging Topics in Computing},
   vol.~9, no.~3, pp. 1433--1448, 2021.
 
 \bibitem{chen3soda}
 T.~Chen, R.~Cao, T.~Li, X.~Luo, G.~Gu, Y.~Zhang, Z.~Liao, H.~Zhu, G.~Chen,
-  Z.~He, Y.~Tang, X.~Lin, and X.~Zhang, ``Soda: A generic online detection
-  framework for smart contracts,'' 01 2020.
+  Z.~He, Y.~Tang, X.~Lin, and X.~Zhang, ``{SODA: A Generic Online Detection
+  Framework for Smart Contracts},'' 2020.
 
 \bibitem{chen4stan}
 \BIBentryALTinterwordspacing
-X.~Li, T.~Chen, X.~Luo, T.~Zhang, L.~Yu, and Z.~Xu, ``Stan: Towards describing
-  bytecodes of smart contract,'' 2020. [Online]. Available:
+X.~Li, T.~Chen, X.~Luo, T.~Zhang, L.~Yu, and Z.~Xu, ``{STAN: Towards Describing
+  Bytecodes of Smart Contract},'' 2020. [Online]. Available:
   \url{https://arxiv.org/abs/2007.09696}
 \BIBentrySTDinterwordspacing
 
 \bibitem{nagele}
 \BIBentryALTinterwordspacing
-J.~Nagele and M.~A. Schett, ``Blockchain superoptimizer,'' 2020. [Online].
+J.~Nagele and M.~A. Schett, ``{Blockchain Superoptimizer},'' 2020. [Online].
   Available: \url{https://arxiv.org/abs/2005.05912}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ethir}
-\BIBentryALTinterwordspacing
-E.~Albert, P.~Gordillo, B.~Livshits, A.~Rubio, and I.~Sergey, ``{EthIR}: A
-  framework for high-level analysis of ethereum bytecode,'' in \emph{Automated
+E.~Albert, P.~Gordillo, B.~Livshits, A.~Rubio, and I.~Sergey, ``{{EthIR}: A
+  Framework for High-Level Analysis of Ethereum Bytecode},'' in \emph{Automated
   Technology for Verification and Analysis}.\hskip 1em plus 0.5em minus
-  0.4em\relax Springer International Publishing, 2018, pp. 513--520. [Online].
-  Available: \url{https://doi.org/10.1007%2F978-3-030-01090-4_30}
-\BIBentrySTDinterwordspacing
+  0.4em\relax Springer International Publishing, 2018, pp. 513--520.
 
 \bibitem{oyente}
-\BIBentryALTinterwordspacing
-L.~Luu, D.-H. Chu, H.~Olickel, P.~Saxena, and A.~Hobor, ``Making smart
-  contracts smarter,'' in \emph{Proceedings of the 2016 ACM SIGSAC Conference
-  on Computer and Communications Security}, ser. CCS '16.\hskip 1em plus 0.5em
-  minus 0.4em\relax New York, NY, USA: Association for Computing Machinery,
-  2016, p. 254–269. [Online]. Available:
-  \url{https://doi.org/10.1145/2976749.2978309}
-\BIBentrySTDinterwordspacing
+L.~Luu, D.-H. Chu, H.~Olickel, P.~Saxena, and A.~Hobor, ``{Making Smart
+  Contracts Smarter},'' in \emph{2016 ACM SIGSAC Conference on Computer and
+  Communications Security}, 2016, p. 254–269.
 
 \bibitem{z3solver}
-L.~de~Moura and N.~Bj{\o}rner, ``Z3: An efficient smt solver,'' in \emph{Tools
-  and Algorithms for the Construction and Analysis of Systems}, C.~R.
-  Ramakrishnan and J.~Rehof, Eds.\hskip 1em plus 0.5em minus 0.4em\relax
-  Berlin, Heidelberg: Springer Berlin Heidelberg, 2008, pp. 337--340.
+L.~de~Moura and N.~Bj{\o}rner, ``{Z3: An Efficient SMT Solver},'' in
+  \emph{Tools and Algorithms for the Construction and Analysis of Systems},
+  C.~R. Ramakrishnan and J.~Rehof, Eds.\hskip 1em plus 0.5em minus 0.4em\relax
+  Springer Berlin Heidelberg, 2008, pp. 337--340.
 
 \bibitem{slither}
-\BIBentryALTinterwordspacing
-J.~Feist, G.~Grieco, and A.~Groce, ``Slither: A static analysis framework for
-  smart contracts,'' in \emph{2019 {IEEE}/{ACM} 2nd International Workshop on
-  Emerging Trends in Software Engineering for Blockchain ({WETSEB})}.\hskip 1em
-  plus 0.5em minus 0.4em\relax {IEEE}, may 2019. [Online]. Available:
-  \url{https://doi.org/10.1109%2Fwetseb.2019.00008}
-\BIBentrySTDinterwordspacing
+J.~Feist, G.~Grieco, and A.~Groce, ``{Slither: A Static Analysis Framework for
+  Smart Contracts},'' in \emph{2019 {IEEE}/{ACM} 2nd International Workshop on
+  Emerging Trends in Software Engineering for Blockchain ({WETSEB})}, 2019.
 
 \bibitem{diangelo}
-M.~di~Angelo and G.~Salzer, ``A survey of tools for analyzing ethereum smart
-  contracts,'' in \emph{2019 IEEE International Conference on Decentralized
+M.~di~Angelo and G.~Salzer, ``{A Survey of Tools for Analyzing Ethereum Smart
+  Contracts},'' in \emph{2019 IEEE International Conference on Decentralized
   Applications and Infrastructures (DAPPCON)}, 2019, pp. 69--78.
 
 \bibitem{chunmiaoli}
-C.~Li, ``Gas estimation and optimization for smart contracts on ethereum,'' in
-  \emph{2021 36th IEEE/ACM International Conference on Automated Software
+C.~Li, ``{Gas Estimation and Optimization for Smart Contracts on Ethereum},''
+  in \emph{2021 36th IEEE/ACM International Conference on Automated Software
   Engineering (ASE)}, 2021, pp. 1082--1086.
 
 \bibitem{smartcorpus}
@@ -354,19 +304,15 @@ G.~A. Pierro, R.~Tonelli, and M.~Marchesi, ``Smart-corpus: an organized
 \BIBentrySTDinterwordspacing
 
 \bibitem{renrepo}
-\BIBentryALTinterwordspacing
-M.~Ren, Z.~Yin, F.~Ma, Z.~Xu, Y.~Jiang, C.~Sun, H.~Li, and Y.~Cai, ``Empirical
-  evaluation of smart contract testing: What is the best choice?'' in
-  \emph{Proceedings of the 30th ACM SIGSOFT International Symposium on Software
-  Testing and Analysis}, ser. ISSTA 2021.\hskip 1em plus 0.5em minus
-  0.4em\relax New York, NY, USA: Association for Computing Machinery, 2021, p.
-  566–579. [Online]. Available: \url{https://doi.org/10.1145/3460319.3464837}
-\BIBentrySTDinterwordspacing
+M.~Ren, Z.~Yin, F.~Ma, Z.~Xu, Y.~Jiang, C.~Sun, H.~Li, and Y.~Cai, ``{Empirical
+  Evaluation of Smart Contract Testing: What is the Best Choice?}'' in
+  \emph{30th ACM SIGSOFT International Symposium on Software Testing and
+  Analysis}, 2021, p. 566–579.
 
 \bibitem{ferreirarepo}
 \BIBentryALTinterwordspacing
-J.~F. Ferreira, P.~Cruz, T.~Durieux, and R.~Abreu, ``Smartbugs: {A} framework
-  to analyze solidity smart contracts,'' \emph{CoRR}, vol. abs/2007.04771,
+J.~F. Ferreira, P.~Cruz, T.~Durieux, and R.~Abreu, ``{SmartBugs: {A} Framework
+  to Analyze Solidity Smart Contracts},'' \emph{CoRR}, vol. abs/2007.04771,
   2020. [Online]. Available: \url{https://arxiv.org/abs/2007.04771}
 \BIBentrySTDinterwordspacing
 
@@ -378,61 +324,43 @@ C.~S. Yashavant, S.~Kumar, and A.~Karkare, ``Scrawld: A dataset of real world
 \BIBentrySTDinterwordspacing
 
 \bibitem{wohrer}
-M.~Wöhrer and U.~Zdun, ``Design patterns for smart contracts in the ethereum
-  ecosystem,'' in \emph{2018 IEEE International Conference on Internet of
+M.~Wöhrer and U.~Zdun, ``{Design Patterns for Smart Contracts in the Ethereum
+  Ecosystem},'' in \emph{2018 IEEE International Conference on Internet of
   Things (iThings) and IEEE Green Computing and Communications (GreenCom) and
   IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data
   (SmartData)}, 2018, pp. 1513--1520.
 
 \bibitem{marchesi}
-L.~Marchesi, M.~Marchesi, G.~Destefanis, G.~Barabino, and D.~Tigano, ``Design
-  patterns for gas optimization in ethereum,'' in \emph{2020 IEEE International
-  Workshop on Blockchain Oriented Software Engineering (IWBOSE)}, 2020, pp.
-  9--15.
+L.~Marchesi, M.~Marchesi, G.~Destefanis, G.~Barabino, and D.~Tigano, ``{Design
+  Patterns for Gas Optimization in Ethereum},'' in \emph{2020 IEEE
+  International Workshop on Blockchain Oriented Software Engineering (IWBOSE)},
+  2020, pp. 9--15.
 
 \bibitem{helpmeout}
-\BIBentryALTinterwordspacing
-B.~Hartmann, D.~MacDougall, J.~Brandt, and S.~R. Klemmer, ``What would other
-  programmers do: Suggesting solutions to error messages,'' in
-  \emph{Proceedings of the SIGCHI Conference on Human Factors in Computing
-  Systems}, ser. CHI '10.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY,
-  USA: Association for Computing Machinery, 2010, p. 1019–1028. [Online].
-  Available: \url{https://doi.org/10.1145/1753326.1753478}
-\BIBentrySTDinterwordspacing
+B.~Hartmann, D.~MacDougall, J.~Brandt, and S.~R. Klemmer, ``{What Would Other
+  Programmers Do: Suggesting Solutions to Error Messages},'' in \emph{SIGCHI
+  Conference on Human Factors in Computing Systems}, 2010, p. 1019–1028.
 
 \bibitem{parseweb}
-\BIBentryALTinterwordspacing
-S.~Thummalapenta and T.~Xie, ``Parseweb: A programmer assistant for reusing
-  open source code on the web,'' in \emph{Proceedings of the Twenty-Second
-  IEEE/ACM International Conference on Automated Software Engineering}, ser.
-  ASE '07.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA:
-  Association for Computing Machinery, 2007, p. 204–213. [Online]. Available:
-  \url{https://doi.org/10.1145/1321631.1321663}
-\BIBentrySTDinterwordspacing
+S.~Thummalapenta and T.~Xie, ``{Parseweb: A Programmer Assistant for Reusing
+  Open Source Code on the Web},'' in \emph{Twenty-Second IEEE/ACM International
+  Conference on Automated Software Engineering}, 2007, p. 204–213.
 
 \bibitem{pierro}
 \BIBentryALTinterwordspacing
-G.~A. Pierro, R.~Tonelli, and M.~Marchesi, ``Smart-corpus: an organized
-  repository of ethereum smart contracts source code and metrics,'' 2020.
+G.~A. Pierro, R.~Tonelli, and M.~Marchesi, ``{Smart-Corpus: an Organized
+  Repository of Ethereum Smart Contracts Source Code and Metrics},'' 2020.
   [Online]. Available: \url{https://arxiv.org/abs/2011.01723}
 \BIBentrySTDinterwordspacing
 
 \bibitem{schroder}
-\BIBentryALTinterwordspacing
-M.~Schr\"{o}der and J.~Cito, ``An empirical investigation of command-line
-  customization,'' \emph{Empirical Softw. Engg.}, vol.~27, no.~2, mar 2022.
-  [Online]. Available: \url{https://doi.org/10.1007/s10664-021-10036-y}
-\BIBentrySTDinterwordspacing
+M.~Schr\"{o}der and J.~Cito, ``{An Empirical Investigation of Command-Line
+  Customization},'' \emph{Empirical Softw. Engg.}, vol.~27, no.~2, 2022.
 
 \bibitem{stratifiedsampling}
-\BIBentryALTinterwordspacing
-R.~Levin and Y.~Kanza, ``Stratified-sampling over social networks using
-  mapreduce,'' in \emph{Proceedings of the 2014 ACM SIGMOD International
-  Conference on Management of Data}, ser. SIGMOD '14.\hskip 1em plus 0.5em
-  minus 0.4em\relax New York, NY, USA: Association for Computing Machinery,
-  2014, p. 863–874. [Online]. Available:
-  \url{https://doi.org/10.1145/2588555.2588577}
-\BIBentrySTDinterwordspacing
+R.~Levin and Y.~Kanza, ``{Stratified-Sampling over Social Networks Using
+  Mapreduce},'' in \emph{2014 ACM SIGMOD International Conference on Management
+  of Data}, 2014, p. 863–874.
 
 \bibitem{pagination}
 J.~Cao, W.~Wang, and Y.~Shu, ``Comparison of pagination algorithms based-on
@@ -440,8 +368,8 @@ J.~Cao, W.~Wang, and Y.~Shu, ``Comparison of pagination algorithms based-on
 
 \bibitem{dabic}
 \BIBentryALTinterwordspacing
-O.~Dabic, E.~Aghajani, and G.~Bavota, ``Sampling projects in github for msr
-  studies,'' 2021. [Online]. Available: \url{https://arxiv.org/abs/2103.04682}
+O.~Dabic, E.~Aghajani, and G.~Bavota, ``{Sampling Projects in GitHub for MSR
+  Studies},'' 2021. [Online]. Available: \url{https://arxiv.org/abs/2103.04682}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

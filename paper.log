@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.8)  18 JAN 2023 21:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.8)  18 JAN 2023 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7702,22 +7702,1509 @@ File: distr_files_repos.png Graphic file (type png)
 <use distr_files_repos.png>
 Package pdftex.def Info: distr_files_repos.png  used on input line 260.
 (pdftex.def)             Requested size: 193.62486pt x 129.48474pt.
-[8 <./distr_versions_contracts.png> <./distr_files_repos.png>] (./paper.bbl
-[9]
-Underfull \hbox (badness 1742) in paragraph at lines 217--220
-\OT1/ptm/m/n/8 ``Blockchain smart con-tracts: Ap-pli-ca-tions, chal-lenges, and
- fu-ture
+[8 <./distr_versions_contracts.png> <./distr_files_repos.png>]
+Overfull \hbox (9.77992pt too wide) in paragraph at lines 274--274
+[][][]\OT1/ptm/m/n/10 W.r.t. 
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 245--250
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (13.1896pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences: 
+ []
+
+
+Overfull \hbox (13.74954pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Please 
+ []
+
+
+Overfull \hbox (9.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 make 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sure 
+ []
+
+
+Overfull \hbox (3.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 that 
+ []
+
+
+Overfull \hbox (34.86923pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 style/layout 
+ []
+
+
+Overfull \hbox (4.30984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 uni- 
+ []
+
+
+Overfull \hbox (5.69987pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 fied. 
+ []
+
+
+Overfull \hbox (6.80998pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 E.g., 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ther 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ab- 
+ []
+
+
+Overfull \hbox (4.29985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bre- 
+ []
+
+
+Overfull \hbox (7.43985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 jour- 
+ []
+
+
+Overfull \hbox (13.74966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 names 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (8.74966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 same 
+ []
+
+
+Overfull \hbox (10.13968pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 rules, 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ab- 
+ []
+
+
+Overfull \hbox (4.29985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bre- 
+ []
+
+
+Overfull \hbox (4.85977pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ated 
+ []
+
+
+Overfull \hbox (10.13994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 none. 
+ []
+
+
+Overfull \hbox (7.08975pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Also 
+ []
+
+
+Overfull \hbox (9.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 make 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sure 
+ []
+
+
+Overfull \hbox (3.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 that 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers 
+ []
+
+
+Overfull \hbox (6.42969pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 (like 
+ []
+
+
+Overfull \hbox (3.2pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 15-- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 19; 
+ []
+
+
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 cor- 
+ []
+
+
+Overfull \hbox (3.18973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 rect 
+ []
+
+
+Overfull \hbox (10.96976pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 form) 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 lay- 
+ []
+
+
+Overfull \hbox (10.41983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 outed 
+ []
+
+
+Overfull \hbox (8.74966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 same 
+ []
+
+
+Overfull \hbox (6.61002pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 way. 
+ []
+
+
+Overfull \hbox (13.7498pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Check 
+ []
+
+
+Overfull \hbox (4.30972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 also 
+ []
+
+
+Overfull \hbox (8.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 other 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (8.18974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers! 
+ []
+
+
+Overfull \hbox (1.93999pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 For 
+ []
+
+
+Overfull \hbox (21.52983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 GASOL 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (9.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Man- 
+ []
+
+
+Overfull \hbox (5.40984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 core 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (7.35979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers, 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bet- 
+ []
+
+
+Overfull \hbox (2.63966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 cite 
+ []
+
+
+Overfull \hbox (8.53984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 peer- 
+ []
+
+
+Overfull \hbox (24.34964pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 reviewed 
+ []
+
+
+Overfull \hbox (3.95pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ver- 
+ []
+
+
+Overfull \hbox (11.25967pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sions, 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 not 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (6.52983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ones 
+ []
+
+
+Overfull \hbox (3.73979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 (ac- 
+ []
+
+
+Overfull \hbox (5.04982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ally, 
+ []
+
+
+Overfull \hbox (11.51982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 check 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers 
+ []
+
+
+Overfull \hbox (5.4197pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 well 
+ []
+
+
+Overfull \hbox (8.18973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 there 
+ []
+
+
+Overfull \hbox (8.53984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 peer- 
+ []
+
+
+Overfull \hbox (24.34964pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 reviewed 
+ []
+
+
+Overfull \hbox (3.95pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ver- 
+ []
+
+
+Overfull \hbox (4.86978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sion 
+ []
+
+
+Overfull \hbox (10.51967pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 avail- 
+ []
+
+
+Overfull \hbox (7.63966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 able; 
+ []
+
+
+Overfull \hbox (4.02983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 yes, 
+ []
+
+
+Overfull \hbox (9.29971pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 place 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (13.18974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Mora- 
+ []
+
+
+Overfull \hbox (3.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bito 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ed- 
+ []
+
+
+Overfull \hbox (3.19974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 tors 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (11.52995pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 book- 
+ []
+
+
+Overfull \hbox (0.69972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 tle. 
+ []
+
+
+Overfull \hbox (3.38992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 PA- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 au- 
+ []
+
+
+Overfull \hbox (10.69974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 thors. 
+ []
+
+
+Overfull \hbox (3.38992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 PA- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (8.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 quite 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (6.25978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 tion. 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (11.52983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Soda- 
+ []
+
+
+Overfull \hbox (10.81987pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Paper 
+ []
+
+
+Overfull \hbox (11.52968pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pretty 
+ []
+
+
+Overfull \hbox (10.41983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 much 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (0.7199pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ev- 
+ []
+
+
+Overfull \hbox (4.29985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ery- 
+ []
+
+
+Overfull \hbox (11.25978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 thing. 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (15.41957pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Smart- 
+ []
+
+
+Overfull \hbox (17.08977pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Corpus 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (2.07988pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 can 
+ []
+
+
+Overfull \hbox (11.52995pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 found 
+ []
+
+
+Overfull \hbox (9.85963pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 twice 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (12.90971pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences, 
+ []
+
+
+Overfull \hbox (9.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 make 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sure 
+ []
+
+
+Overfull \hbox (3.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 that 
+ []
+
+
+Overfull \hbox (12.94975pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 shows 
+ []
+
+
+Overfull \hbox (5.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 only 
+ []
+
+
+Overfull \hbox (7.07988pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 once 
+ []
+
+
+Overfull \hbox (5.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 (and 
+ []
+
+
+Overfull \hbox (8.18973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 there 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (19.56963pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences!). 
+ []
+
+
+Overfull \hbox (5.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 gen- 
+ []
+
+
+Overfull \hbox (5.68973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 eral, 
+ []
+
+
+Overfull \hbox (9.30984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 unify 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (8.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 com- 
+ []
+
+
+Overfull \hbox (7.63966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 plete 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 your 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (10.40971pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences 
+ []
+
+
+Overfull \hbox (7.6398pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 from 
+ []
+
+
+Overfull \hbox (5.81999pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 very 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 be- 
+ []
+
+
+Overfull \hbox (4.30984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 gin- 
+ []
+
+
+Overfull \hbox (5.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ning[]  
+ []
+
+
+Overfull \hbox (9.77992pt too wide) in paragraph at lines 274--274
+[][][]\OT1/ptm/m/n/10 W.r.t. 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (13.1896pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences: 
+ []
+
+
+Overfull \hbox (13.74954pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Please 
+ []
+
+
+Overfull \hbox (9.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 make 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sure 
+ []
+
+
+Overfull \hbox (3.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 that 
+ []
+
+
+Overfull \hbox (34.86923pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 style/layout 
+ []
+
+
+Overfull \hbox (4.30984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 uni- 
+ []
+
+
+Overfull \hbox (5.69987pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 fied. 
+ []
+
+
+Overfull \hbox (6.80998pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 E.g., 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ther 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ab- 
+ []
+
+
+Overfull \hbox (4.29985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bre- 
+ []
+
+
+Overfull \hbox (7.43985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 jour- 
+ []
+
+
+Overfull \hbox (13.74966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 names 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (8.74966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 same 
+ []
+
+
+Overfull \hbox (10.13968pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 rules, 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ab- 
+ []
+
+
+Overfull \hbox (4.29985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bre- 
+ []
+
+
+Overfull \hbox (4.85977pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ated 
+ []
+
+
+Overfull \hbox (10.13994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 none. 
+ []
+
+
+Overfull \hbox (7.08975pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Also 
+ []
+
+
+Overfull \hbox (9.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 make 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sure 
+ []
+
+
+Overfull \hbox (3.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 that 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers 
+ []
+
+
+Overfull \hbox (6.42969pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 (like 
+ []
+
+
+Overfull \hbox (3.2pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 15-- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 19; 
+ []
+
+
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 cor- 
+ []
+
+
+Overfull \hbox (3.18973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 rect 
+ []
+
+
+Overfull \hbox (10.96976pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 form) 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 lay- 
+ []
+
+
+Overfull \hbox (10.41983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 outed 
+ []
+
+
+Overfull \hbox (8.74966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 same 
+ []
+
+
+Overfull \hbox (6.61002pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 way. 
+ []
+
+
+Overfull \hbox (13.7498pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Check 
+ []
+
+
+Overfull \hbox (4.30972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 also 
+ []
+
+
+Overfull \hbox (8.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 other 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (8.18974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers! 
+ []
+
+
+Overfull \hbox (1.93999pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 For 
+ []
+
+
+Overfull \hbox (21.52983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 GASOL 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (9.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Man- 
+ []
+
+
+Overfull \hbox (5.40984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 core 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (7.35979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers, 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bet- 
+ []
+
+
+Overfull \hbox (2.63966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 cite 
+ []
+
+
+Overfull \hbox (8.53984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 peer- 
+ []
+
+
+Overfull \hbox (24.34964pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 reviewed 
+ []
+
+
+Overfull \hbox (3.95pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ver- 
+ []
+
+
+Overfull \hbox (11.25967pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sions, 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 not 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (6.52983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ones 
+ []
+
+
+Overfull \hbox (3.73979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 (ac- 
+ []
+
+
+Overfull \hbox (5.04982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ally, 
+ []
+
+
+Overfull \hbox (11.51982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 check 
+ []
+
+
+Overfull \hbox (11.27982pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Arxiv 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pers 
+ []
+
+
+Overfull \hbox (5.4197pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 well 
+ []
+
+
+Overfull \hbox (8.18973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 there 
+ []
+
+
+Overfull \hbox (8.53984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 peer- 
+ []
+
+
+Overfull \hbox (24.34964pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 reviewed 
+ []
+
+
+Overfull \hbox (3.95pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ver- 
+ []
+
+
+Overfull \hbox (4.86978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sion 
+ []
+
+
+Overfull \hbox (10.51967pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 avail- 
+ []
+
+
+Overfull \hbox (7.63966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 able; 
+ []
+
+
+Overfull \hbox (4.02983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 yes, 
+ []
+
+
+Overfull \hbox (9.29971pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 place 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (13.18974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Mora- 
+ []
+
+
+Overfull \hbox (3.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 bito 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ed- 
+ []
+
+
+Overfull \hbox (3.19974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 tors 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (11.52995pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 book- 
+ []
+
+
+Overfull \hbox (0.69972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 tle. 
+ []
+
+
+Overfull \hbox (3.38992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 PA- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 au- 
+ []
+
+
+Overfull \hbox (10.69974pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 thors. 
+ []
+
+
+Overfull \hbox (3.38992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 PA- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (8.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 quite 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (6.25978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 tion. 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (11.52983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Soda- 
+ []
+
+
+Overfull \hbox (10.81987pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Paper 
+ []
+
+
+Overfull \hbox (11.52968pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pretty 
+ []
+
+
+Overfull \hbox (10.41983pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 much 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (0.7199pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ev- 
+ []
+
+
+Overfull \hbox (4.29985pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ery- 
+ []
+
+
+Overfull \hbox (11.25978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 thing. 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (15.41957pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Smart- 
+ []
+
+
+Overfull \hbox (17.08977pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 Corpus 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 pa- 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 per 
+ []
+
+
+Overfull \hbox (2.07988pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 can 
+ []
+
+
+Overfull \hbox (11.52995pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 found 
+ []
+
+
+Overfull \hbox (9.85963pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 twice 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (12.90971pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences, 
+ []
+
+
+Overfull \hbox (9.75978pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 make 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 sure 
+ []
+
+
+Overfull \hbox (3.19972pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 that 
+ []
+
+
+Overfull \hbox (12.94975pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 shows 
+ []
+
+
+Overfull \hbox (5.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 only 
+ []
+
+
+Overfull \hbox (7.07988pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 once 
+ []
+
+
+Overfull \hbox (5.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 (and 
+ []
+
+
+Overfull \hbox (8.18973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 there 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (19.56963pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences!). 
+ []
+
+
+Overfull \hbox (5.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 gen- 
+ []
+
+
+Overfull \hbox (5.68973pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 eral, 
+ []
+
+
+Overfull \hbox (9.30984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 unify 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (8.74979pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 com- 
+ []
+
+
+Overfull \hbox (7.63966pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 plete 
+ []
+
+
+Overfull \hbox (6.52995pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 your 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (10.40971pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ences 
+ []
+
+
+Overfull \hbox (7.6398pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 from 
+ []
+
+
+Overfull \hbox (5.81999pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 very 
+ []
+
+
+Overfull \hbox (0.9699pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 be- 
+ []
+
+
+Overfull \hbox (4.30984pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 gin- 
+ []
+
+
+Overfull \hbox (5.97989pt too wide) in paragraph at lines 274--274
+\OT1/ptm/m/n/10 ning[]  
+ []
+
+(./paper.bbl [9]
+Underfull \hbox (badness 1502) in paragraph at lines 211--216
 []\OT1/ptm/m/n/8 H. S. Pham, S. Ni-jssen, K. Mens, D. Di Nucci, T. Molderez,
- []
-
-
-Underfull \hbox (badness 1509) in paragraph at lines 345--348
-[]\OT1/ptm/m/n/8 C. Li, ``Gas es-ti-ma-tion and op-ti-miza-tion for smart con-t
-racts on
  []
 
 )
@@ -7738,10 +9225,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 15359 strings out of 474968
- 308689 string characters out of 5780081
- 722458 words of memory out of 5000000
- 36583 multiletter control sequences out of 15000+600000
+ 15367 strings out of 474968
+ 308882 string characters out of 5780081
+ 722599 words of memory out of 5000000
+ 36591 multiletter control sequences out of 15000+600000
  508846 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,94p,2425b,1010s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -7753,7 +9240,7 @@ r/ucrr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/t
 exlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on paper.pdf (10 pages, 381616 bytes).
+Output written on paper.pdf (10 pages, 381683 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
