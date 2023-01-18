@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.8)  18 JAN 2023 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.8)  18 JAN 2023 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5770,52 +5770,452 @@ LaTeX Warning: Marginpar on page 5 moved.
 
 LaTeX Warning: Citation `ren' on page 5 undefined on input line 150.
 
+
+Overfull \hbox (17.53983pt too wide) in paragraph at lines 150--150
+[][][]\OT1/ptm/m/n/10 Broken 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 150--150
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 150--150
+\OT1/ptm/m/n/10 ence[]  
+ []
+
+
+Overfull \hbox (17.53983pt too wide) in paragraph at lines 150--150
+[][][]\OT1/ptm/m/n/10 Broken 
+ []
+
+
+Overfull \hbox (2.6298pt too wide) in paragraph at lines 150--150
+\OT1/ptm/m/n/10 ref- 
+ []
+
+
+Overfull \hbox (6.51982pt too wide) in paragraph at lines 150--150
+\OT1/ptm/m/n/10 ence[]  
+ []
+
+
+Overfull \hbox (3.19974pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 dis- 
+ []
+
+
+Overfull \hbox (14.85966pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 cussed 
+ []
+
+
+Overfull \hbox (4.49004pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 day, 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (4.30972pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 also 
+ []
+
+
+Overfull \hbox (8.74979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 men- 
+ []
+
+
+Overfull \hbox (13.19972pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 tioned 
+ []
+
+
+Overfull \hbox (14.55997pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 above: 
+ []
+
+
+Overfull \hbox (15.40956pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 clearly 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (3.19974pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 dis- 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 cus- 
+ []
+
+
+Overfull \hbox (4.86978pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 sion 
+ []
+
+
+Overfull \hbox (7.07988pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 need 
+ []
+
+
+Overfull \hbox (12.91957pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 script. 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (10.71976pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 view- 
+ []
+
+
+Overfull \hbox (3.75964pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 will 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 not 
+ []
+
+
+Overfull \hbox (1.52995pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 un- 
+ []
+
+
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 der- 
+ []
+
+
+Overfull \hbox (9.30972pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 stand 
+ []
+
+
+Overfull \hbox (5.37003pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 why 
+ []
+
+
+Overfull \hbox (19.01982pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 needed. 
+ []
+
+
+Overfull \hbox (1.27994pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 We 
+ []
+
+
+Overfull \hbox (7.07988pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 need 
+ []
+
+
+Overfull \hbox (8.73979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 para- 
+ []
+
+
+Overfull \hbox (10.9699pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 graph 
+ []
+
+
+Overfull \hbox (5.14967pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 this, 
+ []
+
+
+Overfull \hbox (15.40956pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 clearly 
+ []
+
+
+Overfull \hbox (4.05984pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 giv- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (2.64967pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 this 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (6.25978pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 tion.[]  
+ []
+
+
+Overfull \hbox (3.19974pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 dis- 
+ []
+
+
+Overfull \hbox (14.85966pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 cussed 
+ []
+
+
+Overfull \hbox (4.49004pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 day, 
+ []
+
+
+Overfull \hbox (2.63994pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 and 
+ []
+
+
+Overfull \hbox (4.30972pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 also 
+ []
+
+
+Overfull \hbox (8.74979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 men- 
+ []
+
+
+Overfull \hbox (13.19972pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 tioned 
+ []
+
+
+Overfull \hbox (14.55997pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 above: 
+ []
+
+
+Overfull \hbox (15.40956pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 clearly 
+ []
+
+
+Overfull \hbox (9.86952pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 miss- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (3.19974pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 dis- 
+ []
+
+
+Overfull \hbox (4.85979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 cus- 
+ []
+
+
+Overfull \hbox (4.86978pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 sion 
+ []
+
+
+Overfull \hbox (7.07988pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 need 
+ []
+
+
+Overfull \hbox (12.91957pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 script. 
+ []
+
+
+Overfull \hbox (3.74992pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 The 
+ []
+
+
+Overfull \hbox (10.71976pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 view- 
+ []
+
+
+Overfull \hbox (3.75964pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 will 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 not 
+ []
+
+
+Overfull \hbox (1.52995pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 un- 
+ []
+
+
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 der- 
+ []
+
+
+Overfull \hbox (9.30972pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 stand 
+ []
+
+
+Overfull \hbox (5.37003pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 why 
+ []
+
+
+Overfull \hbox (19.01982pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 needed. 
+ []
+
+
+Overfull \hbox (1.27994pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 We 
+ []
+
+
+Overfull \hbox (7.07988pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 need 
+ []
+
+
+Overfull \hbox (8.73979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 para- 
+ []
+
+
+Overfull \hbox (10.9699pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 graph 
+ []
+
+
+Overfull \hbox (5.14967pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 this, 
+ []
+
+
+Overfull \hbox (15.40956pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 clearly 
+ []
+
+
+Overfull \hbox (4.05984pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 giv- 
+ []
+
+
+Overfull \hbox (0.97989pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 ing 
+ []
+
+
+Overfull \hbox (2.64967pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 this 
+ []
+
+
+Overfull \hbox (2.98991pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 for- 
+ []
+
+
+Overfull \hbox (3.74979pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (6.25978pt too wide) in paragraph at lines 154--154
+\OT1/ptm/m/n/10 tion.[]  
+ []
+
 [5]
 LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 1
-82.
+84.
  (c:/texlive/2022/texmf-dist/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 182.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 184.
  [6]
-Underfull \hbox (badness 2088) in paragraph at lines 196--197
+Underfull \hbox (badness 2088) in paragraph at lines 198--199
 []\OT1/pcr/m/n/10 NAME TEXT NOT NULL\OT1/ptm/m/n/10 : The name of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 []\OT1/pcr/m/n/10 FILE_ID INTEGER PRIMARY KEY\OT1/ptm/m/n/10 : A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 []\OT1/pcr/m/n/10 COMMIT_ID INTEGER PRIMARY KEY\OT1/ptm/m/n/10 : A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 []\OT1/pcr/m/n/10 MESSAGE TEXT NOT NULL\OT1/ptm/m/n/10 : The com-mit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
 []\OT1/pcr/m/n/10 CREATED DATETIME DEFAULT
  []
 
 
-Underfull \hbox (badness 6658) in paragraph at lines 218--219
+Underfull \hbox (badness 6658) in paragraph at lines 220--221
 \OT1/pcr/m/n/10 CURRENT_TIMESTAMP\OT1/ptm/m/n/10 : The times-tamp of
  []
 
 [7]
 
-LaTeX Warning: Citation `yang' on page 8 undefined on input line 238.
+LaTeX Warning: Citation `yang' on page 8 undefined on input line 240.
 
 <distr_versions_contracts.png, id=36, 645.41125pt x 400.49625pt>
 File: distr_versions_contracts.png Graphic file (type png)
 <use distr_versions_contracts.png>
-Package pdftex.def Info: distr_versions_contracts.png  used on input line 249.
+Package pdftex.def Info: distr_versions_contracts.png  used on input line 251.
 (pdftex.def)             Requested size: 193.62486pt x 120.1498pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -5823,7 +6223,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <distr_files_repos.png, id=38, 645.41125pt x 431.6125pt>
 File: distr_files_repos.png Graphic file (type png)
 <use distr_files_repos.png>
-Package pdftex.def Info: distr_files_repos.png  used on input line 257.
+Package pdftex.def Info: distr_files_repos.png  used on input line 259.
 (pdftex.def)             Requested size: 193.62486pt x 129.48474pt.
 [8 <./distr_versions_contracts.png> <./distr_files_repos.png>] (./paper.bbl
 [9]
@@ -5861,13 +6261,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 15245 strings out of 474968
- 305949 string characters out of 5780081
- 695547 words of memory out of 5000000
- 36469 multiletter control sequences out of 15000+600000
+ 15261 strings out of 474968
+ 306321 string characters out of 5780081
+ 696119 words of memory out of 5000000
+ 36485 multiletter control sequences out of 15000+600000
  508846 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,9n,94p,2217b,921s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,9n,94p,2217b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
@@ -5876,7 +6276,7 @@ r/ucrr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/t
 exlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2022/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on paper.pdf (10 pages, 377531 bytes).
+Output written on paper.pdf (10 pages, 378063 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
